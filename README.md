@@ -1,4 +1,4 @@
-### 一名web开发爱好者，Java开发爱好者
+### 一名中国IT男，也是一个二次元爱好者
 
 <!--
 **munanchun/munanchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
